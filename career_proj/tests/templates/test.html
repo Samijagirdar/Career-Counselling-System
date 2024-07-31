@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+{% block title%} {{room.name}} | {% endblock %}
+{% block content %}
+<div class="p-5 lg:p-5 text-center">
+    <h1 class="text-3xl lg:text-6xl text-white">{{room.name}}</h1>
+</div>
+<div class="flex items-center justify-center ">
+    <div class="p-2 bg-gray-50 rounded-xl text-center w-1/4 ">
+        <p class="font-semibold">Please enter your details below</p>
+    </div>
+</div>
+
+
+{% endblock %}

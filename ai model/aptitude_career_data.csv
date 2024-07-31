@@ -1,0 +1,91 @@
+logical_reasoning,numerical_ability,verbal_ability,career_path
+8.1,9.0,7.2,Engineer
+7.4,8.1,6.3,Engineer
+6.5,7.2,5.1,Engineer
+9.0,9.3,8.4,Engineer
+5.7,6.4,6.1,Engineer
+6.6,6.8,7.0,Engineer
+8.2,7.4,6.5,Engineer
+7.8,9.1,7.3,Engineer
+8.3,8.2,8.1,Engineer
+9.1,8.8,9.0,Engineer
+5.2,5.5,5.6,Teacher
+6.1,6.2,6.4,Teacher
+7.0,7.3,7.2,Teacher
+5.6,7.1,6.2,Teacher
+6.4,8.2,7.1,Teacher
+7.2,6.4,8.0,Teacher
+8.0,5.6,7.2,Teacher
+6.3,5.8,6.5,Teacher
+5.7,6.5,7.1,Teacher
+6.8,7.0,8.1,Teacher
+8.4,6.7,9.2,Doctor
+9.1,7.5,8.3,Doctor
+8.7,8.0,7.6,Doctor
+7.6,9.3,6.4,Doctor
+6.5,8.4,7.5,Doctor
+9.0,8.5,8.1,Doctor
+8.9,9.1,7.3,Doctor
+7.2,8.3,6.6,Doctor
+8.1,7.5,8.2,Doctor
+9.2,6.8,7.9,Doctor
+8.9,9.2,9.1,Data Scientist
+9.3,9.4,9.0,Data Scientist
+7.6,7.8,8.4,Data Scientist
+8.5,8.7,7.5,Data Scientist
+7.8,9.1,8.2,Data Scientist
+9.1,8.8,8.6,Data Scientist
+8.3,7.9,9.0,Data Scientist
+9.2,7.8,8.5,Data Scientist
+8.8,9.3,8.1,Data Scientist
+9.0,8.2,7.4,Data Scientist
+6.1,6.5,5.2,Lawyer
+7.3,6.4,5.6,Lawyer
+6.4,7.2,6.1,Lawyer
+7.5,7.6,7.3,Lawyer
+6.9,8.0,6.4,Lawyer
+7.8,8.1,7.2,Lawyer
+6.5,7.3,7.0,Lawyer
+7.4,8.3,6.6,Lawyer
+6.6,6.2,6.4,Lawyer
+7.7,7.4,6.8,Lawyer
+5.6,6.1,5.3,Artist
+6.3,5.5,5.6,Artist
+5.9,7.2,5.4,Artist
+6.4,6.7,5.9,Artist
+7.1,5.8,6.4,Artist
+6.5,7.1,5.7,Artist
+7.2,6.4,5.9,Artist
+6.8,5.6,6.2,Artist
+7.0,6.3,6.3,Artist
+6.9,7.4,6.1,Artist
+8.2,7.8,8.4,Business Analyst
+9.0,8.9,9.2,Business Analyst
+7.3,7.6,7.8,Business Analyst
+8.6,9.1,8.3,Business Analyst
+7.9,8.2,7.4,Business Analyst
+8.8,8.7,8.6,Business Analyst
+7.7,9.0,8.1,Business Analyst
+8.4,7.9,7.6,Business Analyst
+7.8,8.5,8.0,Business Analyst
+8.9,9.3,9.1,Business Analyst
+7.6,6.8,7.3,Marketing Manager
+8.5,7.4,8.3,Marketing Manager
+7.9,8.2,7.1,Marketing Manager
+8.7,9.1,8.5,Marketing Manager
+7.2,8.3,8.4,Marketing Manager
+8.6,7.6,7.8,Marketing Manager
+7.5,9.2,7.4,Marketing Manager
+8.3,8.1,8.7,Marketing Manager
+7.7,7.9,7.5,Marketing Manager
+8.9,9.4,9.2,Marketing Manager
+7.4,7.2,6.5,Graphic Designer
+8.1,6.5,7.6,Graphic Designer
+7.5,7.4,7.2,Graphic Designer
+8.4,8.2,8.3,Graphic Designer
+7.7,7.3,7.1,Graphic Designer
+8.7,8.0,7.5,Graphic Designer
+7.6,9.1,7.7,Graphic Designer
+8.3,7.4,8.4,Graphic Designer
+7.8,8.5,7.2,Graphic Designer
+8.9,9.3,9.1,Graphic Designer

@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+{% block title %}Results | {% endblock %}
+{% block content %}
+<div class="w-full max-w-4xl mx-auto bg-white p-2 rounded-lg shadow-lg mt-2">
+    <h1>Predicted Career Path</h1>
+    <p>Your predicted career path is: {{ predicted_career }}</p>
+    <a href="{% url 'aptitude_test' %}">Take Another Test</a>
+</div>
+    
+{% endblock %}
